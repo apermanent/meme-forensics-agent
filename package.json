@@ -1,0 +1,12 @@
+{
+  "name": "meme-forensics-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/cli.js",
+    "chat": "node src/cli.js --interactive",
+    "test": "node scripts/smoke-test.js"
+  }
+}
+

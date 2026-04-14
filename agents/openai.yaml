@@ -1,0 +1,7 @@
+interface:
+  display_name: "Meme Forensics Agent"
+  short_description: "Analyze meme tokens and gate tiny probe buys."
+  default_prompt: "Use $meme-forensics-agent to analyze a meme token, explain the risks, and only allow a tiny probe buy if the token is not blocked."
+
+policy:
+  allow_implicit_invocation: true

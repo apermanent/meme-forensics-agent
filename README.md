@@ -157,8 +157,8 @@ flowchart TD
 
 ### 公网部署信息
 
-- GitHub Repository：`[[https://github.com/apermanent/meme-forensics-agent]]`
-- Demo Video：`[待填写]`
+- GitHub Repository：`https://github.com/apermanent/meme-forensics-agent`
+- Demo Video：`https://www.youtube.com/shorts/r_xyWoCls-o`
 - Public Demo URL：当前版本暂无公网前端部署地址
 
 ### 合约部署说明

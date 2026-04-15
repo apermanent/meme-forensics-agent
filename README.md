@@ -157,7 +157,7 @@ flowchart TD
 
 ### 公网部署信息
 
-- GitHub Repository：`[待填写]`
+- GitHub Repository：`[[https://github.com/apermanent/meme-forensics-agent]]`
 - Demo Video：`[待填写]`
 - Public Demo URL：当前版本暂无公网前端部署地址
 
